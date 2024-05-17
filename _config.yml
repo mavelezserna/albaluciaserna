@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Archivos de Albalucía Serna
-email: aserna-archivo [@] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Una colección gradual e informal de escritos de Albalucía Serna Ángel. Siempre en construcción.
 baseurl: "" # the subpath of your site, e.g. /blog

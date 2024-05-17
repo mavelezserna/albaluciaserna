@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre este sitio
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+La socióloga colombiana Albalucía Serna Ángel (1943-2023) investigó y escribió sobre muchos temas que siguen siendo vigentes. Esta página busca poner en común algunos textos, incluyendo traducciones de su trabajo en inglés. La idea es publicar periódicamente y poco a poco ir construyendo esta colección.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Esta página es hecha a mano por María Antonia Vélez Serna y Andrés Vélez Sáenz. Para ponerse en contacto, por favor escriba a archivo-aserna [@] gmail.com
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
+Sitio construído con Jekyll en Github.
 [jekyll](https://github.com/jekyll/jekyll)
-
-
 [jekyll-organization]: https://github.com/jekyll
