@@ -376,8 +376,8 @@ table td {
   font-size: 32px;
 }
 
-.post-list-heading {
-  font-size: 28px;
+#.post-list-heading {
+  font-size: 20px;
 }
 
 .post-list {
