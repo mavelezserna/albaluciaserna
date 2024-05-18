@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Durante su larga y pionera trayectoria profesional, Albalucía escribió sobre muchos temas sociológicos, realizando investigación de campo y análisis teórico. Aquí iremos añadiendo textos en su memoria.
+Durante su larga y pionera trayectoria profesional, Albalucía escribió sobre muchos temas sociológicos, realizando investigación de campo y análisis teórico. Aquí iremos añadiendo textos en su memoria. Disfruten.
