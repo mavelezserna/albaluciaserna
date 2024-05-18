@@ -21,7 +21,7 @@
 title: Archivos de Albalucía Serna
 description: >- # this means to ignore newlines until "baseurl:"
   Una colección gradual e informal de escritos de Albalucía Serna Ángel. Siempre en construcción.
-baseurl: "/albaluciaserna/" # the subpath of your site, e.g. /blog
+baseurl: "/albaluciaserna" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
 
