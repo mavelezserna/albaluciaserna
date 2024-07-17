@@ -6,7 +6,7 @@ title:  "¿Cultura de la Pobreza?"
 ### Contenidos
 - [Presentación por Andrés Vélez Sáenz](#presentacion)
 - [Nota de la traductora](#traductora)
-[¿Cultura de la pobreza? por Albalucía Serna Ángel](#inicio)
+- [**¿Cultura de la pobreza?** por Albalucía Serna Ángel](#inicio)
 	1. [El concepto de ‘cultura de la pobreza’](#concepto)
 	2. [El ‘value stretch’ de la clase baja](#value-stretch)
 	3. [La cultura de la pobreza y la participación de los pobres](#participacion)
