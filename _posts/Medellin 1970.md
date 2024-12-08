@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Medellín: Sus problemas a raíz de su crecimiento rápido"
+date:   2024-12-08 00:16:19 +0100
+---
 # Medellín: Sus problemas a raíz de su crecimiento rápido
 
 **Curso:** La Ciudad, SUNY College at Old Westbury, Oyster Bay, 1970.
