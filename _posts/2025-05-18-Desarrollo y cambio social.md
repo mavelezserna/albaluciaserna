@@ -3,14 +3,14 @@ layout: post
 title:  "Desarrollo y cambio social"
 ---
 #### En busca de un modelo que explique el proceso de cambio en naciones en vías de desarrollo, en particular Colombia.
-Trabajo final del curso sobre Asuntos Urbanos, Dr Warner Bloomberg, Universidad de Wisconsin-Milwaukee, 1970-1971. [^\*]
+Trabajo final del curso sobre Asuntos Urbanos, Dr Warner Bloomberg, Universidad de Wisconsin-Milwaukee, 1970-1971. [^nt1]
 
 ### Presentación por María Antonia Vélez Serna
-En este ensayo Albalucía plantea una pregunta fundamental sobre la dirección del cambio social: ¿está predeterminado que toda sociedad, al buscar el bienestar, tienda hacia la industrialización y la modernización? ¿Por qué, si no está demostrado que esas condiciones sean las únicas en las que es posible vivir bien? Su crítica no parte del desacuerdo ideológico, sino de la *falta de evidencia*: asumir una dirección única de cambio introduce sesgos en el análisis de la observación empírica. Esta discusión es tan pertinente ahora como lo era en 1971, cuando fue escrito este ensayo. Hay nuevas maneras de enmarcarla, donde la 'crítica del desarrollo' se ha expandido a conceptos como el 'buen vivir'. Incluso en las conclusiones aparece el cuestionamiento ecológico de la falacia del progreso ilimitado en un planeta con límites.
+> En este ensayo Albalucía plantea una pregunta fundamental sobre la dirección del cambio social: ¿está predeterminado que toda sociedad, al buscar el bienestar, tienda hacia la industrialización y la modernización? ¿Por qué, si no está demostrado que esas condiciones sean las únicas en las que es posible vivir bien? Su crítica no parte del desacuerdo ideológico, sino de la *falta de evidencia*: asumir una dirección única de cambio introduce sesgos en el análisis de la observación empírica. Esta discusión es tan pertinente ahora como lo era en 1971, cuando fue escrito este ensayo. Hay nuevas maneras de enmarcarla, donde la 'crítica del desarrollo' se ha expandido a conceptos como el 'buen vivir'. Incluso en las conclusiones aparece el cuestionamiento ecológico de la falacia del progreso ilimitado en un planeta con límites.
 
-Estas discusiones de grandes problemas se aplican en este ensayo al caso colombiano. En este ámbito, Albalucía demuestra estar muy al día con la investigación y debate sobre temas como la reforma agraria y la subversión armada en relación con las transformaciones (e inercias) de la sociedad colombiana. Me pregunto cómo eran las maneras de recibir periódicos, revistas, y libros publicados recientemente. Pero Albalucía argumenta también desde su experiencia propia, su conocimiento de la ruralidad y de la vida urbana. Aprovecha además su ubicación (en Wisconsin-Milwaukee) para trabajar con muchos informes del grupo de investigación sobre tenencia de la tierra (Land Tenure Center) en Wisconsin-Madison. Es poco común para una estudiante de maestría, con menos de dos años de haber llegado al país, el estar tan conectada con estas redes de investigación. Me admira también la confianza con que expresa su desacuerdo con autores establecidos, mientras aprecia sus aportes. En las márgenes del ensayo se ven los comentarios del profesor - 'Very Good!' al final. Obtuvo la nota más alta en la materia, pero nos parece que este texto tiene un valor mucho más amplio para quien se interese por la historia del debate sociológico sobre la historia de Colombia.
+> Estas discusiones de grandes problemas se aplican en este ensayo al caso colombiano. En este ámbito, Albalucía demuestra estar muy al día con la investigación y debate sobre temas como la reforma agraria y la subversión armada en relación con las transformaciones (e inercias) de la sociedad colombiana. Me pregunto cómo eran las maneras de recibir periódicos, revistas, y libros publicados recientemente. Pero Albalucía argumenta también desde su experiencia propia, su conocimiento de la ruralidad y de la vida urbana. Aprovecha además su ubicación (en Wisconsin-Milwaukee) para trabajar con muchos informes del grupo de investigación sobre tenencia de la tierra (Land Tenure Center) en Wisconsin-Madison. Es poco común para una estudiante de maestría, con menos de dos años de haber llegado al país, el estar tan conectada con estas redes de investigación. Me admira también la confianza con que expresa su desacuerdo con autores establecidos, mientras aprecia sus aportes. En las márgenes del ensayo se ven los comentarios del profesor - 'Very Good!' al final. Obtuvo la nota más alta en la materia, pero nos parece que este texto tiene un valor mucho más amplio para quien se interese por la historia del debate sociológico sobre la historia de Colombia.
 
-![Albalucía en 1971](/img/albaluca-nieve.jpg)
+![Albalucía en 1971](/img/albalucia-nieve.jpg)
 
 ## Introducción
 La tradicional definición del *desarrollo* como industrialización,  modernización y avance económico en comparación internacional ha tenido consecuencias importantes para la investigación en ciencias sociales y para el desarrollo de políticas en países "subdesarrollados" (o "en vías de desarrollo" para quienes resienten el nombre anterior). Otro error común ha sido considerar el cambio social única o principalmente en términos de desarrollo económico. Esto conlleva a asumir, en un marco evolutivo, que las sociedades se mueven "necesariamente" hacia la industrialización, y que las sociedades más complejas son las más desarrolladas y por tanto en mejores condiciones. Esto significa asumir que las sociedades que han llegado más lejos en su viaje hacia el "progreso", también han llegado más alto.
@@ -43,7 +43,7 @@ Leer lo que se ha escrito sobre cambio social y desarrollo económico en Colombi
 
 La mayor parte de estos estudios de la 'modernización' (o la industrialización, o la urbanización según el énfasis) son solo una descripción del resultado de algún tipo de proceso. Aunque las dinámicas de tal proceso rara vez se analizan, parece que se adhieren a un modelo evolutivo que por lo general es unilineal. A veces el análisis del 'después' se complementa con una descripción del 'antes', y así se ha vuelto lugar común el hablar de las raíces feudales de la sociedad colombiana, y de la permanencia de estos patrones feudales lado a lado con las instituciones urbano-industriales más 'avanzadas'. La definición ya clásica de Colombia, y América Latina en general, como una sociedad dual, no es más que el resultado de un modelo evolutivo unilineal con el supuesto de que, aunque algunas instituciones en la sociedad o algunas regiones geográficas 'están atrasadas', necesariamente se pondrán al día y seguirán la misma ruta con un resultado similar. Los retrasos (tecnológicos y en la cultura intangible) desaparecerán en el futuro, y el político o planificador tiene la responsabilidad de acordarse de estas áreas y hacer que los frutos del 'progreso' las alcancen.[^4] Me sorprende que la mayoría de los sociólogos latinoamericanos, así como los economistas, hayan seguido la teoría de la sociedad dual. Entre sus proponentes está Gino Germani, quien expande la idea de lo denomina el carácter asincrónico del cambio social en América Latina con la coexistencia de instituciones de orden moderno y tradicional (Germani, 1962).
 
-Estos modelos dualistas de polos opuestos me dan la sensación de haber sido planeados solo para identificar cuáles características del tipo ideal están presentes, dejando de lado cualquier otro factor que invalide esta dicotomía. Según ellos, puede haber *gemeinschaft* o *gesselschaft* [^\*\*], solidaridad orgánica o mecánica, homogeneidad o heterogeneidad, relaciones de tipo personal o contractual, estatus conferido o adquirido, etc. Cuando la categoría no es clara, entonces hay dualismo, y por implicación un estado transicional. Luis A. Costa Pinto (1969, 1970) critica estos modelos bipolares y ofrece un modelo alternativo en su definición del concepto de marginalidad estructural, como crisis simultánea de dos sistemas coexistentes. Para entender su concepto es necesario ver la transición como el paso de uno a otro modelo de sociedad. Por tanto, la marginalidad estructural ocurre en los países latinoamericanos cuando hay también una crisis simultánea de dos modelos sociales, el tradicional y el moderno, llevando a la desintegración de ambos. De forma similar, Mario Laserna (1971) ve la crisis entre el modelo individualista y el socialista como una oportunidad para que aparezca un tercer modelo. Para él, los países en desarrollo empiezan su proceso de modernización encarando a estos dos modelos, pero como ninguno responde a sus condiciones históricas, se produce una crisis.
+Estos modelos dualistas de polos opuestos me dan la sensación de haber sido planeados solo para identificar cuáles características del tipo ideal están presentes, dejando de lado cualquier otro factor que invalide esta dicotomía. Según ellos, puede haber *gemeinschaft* o *gesselschaft* [^nt2], solidaridad orgánica o mecánica, homogeneidad o heterogeneidad, relaciones de tipo personal o contractual, estatus conferido o adquirido, etc. Cuando la categoría no es clara, entonces hay dualismo, y por implicación un estado transicional. Luis A. Costa Pinto (1969, 1970) critica estos modelos bipolares y ofrece un modelo alternativo en su definición del concepto de marginalidad estructural, como crisis simultánea de dos sistemas coexistentes. Para entender su concepto es necesario ver la transición como el paso de uno a otro modelo de sociedad. Por tanto, la marginalidad estructural ocurre en los países latinoamericanos cuando hay también una crisis simultánea de dos modelos sociales, el tradicional y el moderno, llevando a la desintegración de ambos. De forma similar, Mario Laserna (1971) ve la crisis entre el modelo individualista y el socialista como una oportunidad para que aparezca un tercer modelo. Para él, los países en desarrollo empiezan su proceso de modernización encarando a estos dos modelos, pero como ninguno responde a sus condiciones históricas, se produce una crisis.
 
 Gideon Sjoberg, intentando romper el modelo binario, introduce varias etapas intermedias entre los dos polos: Folk - urbano - industrial. Aunque su modelo puede ser más adecuado para el análisis de las sociedades en desarrollo, aún lleva los sesgos de la teoría evolutiva, que están presentes en el análisis funcional estructural. Ahora bien, la tecnología es una variable útil para describir una sociedad o clasificarla en una escala de modernización, pero no explica el fenómeno de la modernización en términos de causa y efecto. Además, aunque Sjoberg no ve "una panacea para los males del mundo en la industrialización y urbanización de los países en desarrollo" (1960, p. 338), sí considera la industrialización como resultado necesario o al menos tendencia. En su libro hay muchas frases como "Por supuesto, la tendencia global a largo plazo es hacia sociedades cada vez más grandes y complejas", y "Los patrones a futuro están fijados, ya no hay vuelta atrás." (1960, p. 343)
 
@@ -107,76 +107,111 @@ Del análisis de distintos estudios sobre la sociedad colombiana puede deducirse
 ![Nota del profesor](/img/verygood.jpg)
 
 ## Bibliografía
-Adams, Dale W.
-	1964: "Tenencia de la Tierra. Es la concentración de la tierra un problema en Colombia." Land Tenure Center, U.W. Madison, Reprints I. Vol. XX. No. 11 Nov. 1964.
-	---- con L. Eduardo Montero. "Land and parcelization in Agrarian Reform: A Colombian example." LTC reprints.
-	---- "Colombia's Land Tenure System: Antecedents and Problems." LTC reprints No. 18.
+Adams, Dale W. 	
+1964: "Tenencia de la Tierra. Es la concentración de la tierra un problema en Colombia." Land Tenure Center, U.W. Madison, Reprints I. Vol. XX. No. 11 Nov. 1964.
+
+1964: con L. Eduardo Montero. "Land and parcelization in Agrarian Reform: A Colombian example." LTC reprints.
+
+1964: "Colombia's Land Tenure System: Antecedents and Problems." LTC reprints No. 18.
+
 Anderson, Charles.
 	1963: Land reform in Colombia: Some ideas. LTC Discussion Paper 4. Nov. 1963.
+
 Anónimo
 	1970: "Planas o la destrucción de la Nación Indígena." Editorial La Oveja Negra, Bogotá.
+
 Appelbaum, Richard P.
 	1970: Theories of Social Change. Markham Pub. Co. Chicago.
+
 Arrubla, Mario.
 	1969: Estudios sobre el subdesarrollo colombiano. Ed. La Oveja Negra, Medellín.
+
 Barraclough, Solom L. y Arthur Domike.
 	"Agrarian structure in seven Latin American countries." LTC reprints No. 25.
+
 Cerón, Carlos Armando y Blanca Dora Zapata.
 	1968: Las migraciones antioqueñas a la ciudad de Medellín. *Revista de Sociología* UPB No. 2, pp. 63-68.
+
 Costa Pinto, Luis A.
 	1969: Marginalidad estructural de las sociedades en transición. *Revista de Sociología* UPB No. 3, pp. 5-12.
+
 Currie, Lauchlin.
 	1951: Bases de un programa de fomento para Colombia. Banco de la República, Bogotá.
+
 Dorner, Peter and Richard W. Patch.
 	1966: Social Science Issues in Agrarian Change and National Development of Latin America. LTC Discussion Paper No. 9.
+
 *El Espectador*
 	1970, Oct. 5. Los indios Cuna, César Augusto Rojas.
+
 Fals Borda, Orlando.
 	1969: *Subversion and social change in Colombia*. Traducido al inglés por Jacqueline D. Skiles. Columbia University Press, New York.
+
 *FLASH*
 	1970, Oct. Planas: Una cultura que se defiende. Por Víctor Daniel Bonilla, Vol 6 No. 57.
+
 *FLASH*
 	1970, Dic. Los Katíos de Santa Cecilia. Por Rosita Mora Romero. Vol 7 No. 60.
+
 Germani, Gino.
 	1962: *Política y Sociedad en una Época de Transición*. Ed. Paidós, Buenos Aires.
+
 Goulet, Denis.
 	1971: *The Cruel Choice: A New Concept in the Theory of Development*. Atheneum, New York.
+
 Guzmán, Germán.
 	1968: *La Violencia en Colombia* II, Ed. El Progreso, Cali.
+
 Hagen, Everett E.
 	1968: Are some things valued by all men? *Cross Currents* Vol XVIII No. 4, p. 411.
+
 Haney B. Emil, Jr.
 	1968: The Minifundia Dilemma: A Colombian Case Study. LTC No. 56.
+
 Heilbroner, Robert L.
 	1963: *The Great Ascent*. Harper Torchbooks, New York.
+
 Hirschman, Albert O.
 	1963: Land Reform in Colombia: Some Ideas. LTC Discussion Paper 4.
+
 Laserna, Mario.
 	1971: El Tercer Modelo. *El Espectador Dominical*, Octubre.
+
 Lewis, Oscar.
 	1951: *Life in a Mexican Village. Tepoztlán Restudied*. The University of Illinois Press, Urbana IL.
 	--- Tepoztlán Restudied: A Critique of the Folk-Urban Conceptualization of Social Change. *Rural Sociology*, Vol 18 No. 2, pp. 121-136.
+
 Lipman, Aaron y A. Eugene Havens.
 	1965: The Colombian Violence: An Ex Post Facto Experiment. *Social Forces* 44, No. 2, pp. 238-245.
+
 Redfield, Robert.
 	1947: The Folk Society. *American Journal of Sociology* Vol. 52, pp. 293-308.
 	1953: *The Primitive World and Its Transformations*. Cornell University Press, Ithaca.
+
 Sepúlveda Niño, Secundino.
 	1969: *Planeando para una Revolución*. Ed. Norha, Bogotá.
 	1970: *El Atraso Rural: Un caso de discriminación estructural*. Ed. El Catolicismo, Bogotá.
+
 Sjoberg, Gideon.
 	1960: *The Preindustrial City*. The Free Press, New York.
+
 Tanter, R. y M. Midlarsky.
 	1967: A Theory of Revolution. *The Journal of Conflict Resolutions.* Vol XI No. 3, pp. 264-280.
+
 Torres, Camilo.
-	1962: Social Change and Rural Violence in Colombia. En *Masses in Latin America*, ed. Erving Louis Horowitz, Oxford University Press, New York, pp. 502-546.
+	1962: Social Change and Rural Violence in Colombia. En *Masses in Latin America*, ed. Erving Louis 
+Horowitz, Oxford University Press, New York, pp. 502-546.
+
 Whiteford, Andrew Hunter.
 	1970: Aristocracy, Oligarchy and Cultural Change in Colombia. En *City and Country in the Third World*, ed. Arthur J. Field. Schenkman Publ. Co., Cambridge, Mass. pp. 63-91.
-	1963: Social Change in Popayán. LTC Discussion Paper No. 4, pp. 12-17.
-	1964: *Two Cities in Latin America: A comparative description of social classes*. Anchor Books.
+	
+1963: Social Change in Popayán. LTC Discussion Paper No. 4, pp. 12-17.
+	
+1964: *Two Cities in Latin America: A comparative description of social classes*. Anchor Books.
 
+***
 
-[^\*]: Warner Bloomberg fue miembro fundador de la Asociación de Asuntos Urbanos ([Urban Affairs Association](https://urbanaffairsassociation.org/history/governing-board-history/) y autor de libros y artículos sobre la pobreza urbana \[Nota de la traductora\]
+[^nt1]: Warner Bloomberg fue miembro fundador de la Asociación de Asuntos Urbanos ([Urban Affairs Association](https://urbanaffairsassociation.org/history/governing-board-history/) y autor de libros y artículos sobre la pobreza urbana \[Nota de la traductora\]
 
 [^1]: La bibliografía sobre este tema es amplia. Ver por ejemplo [La sociedad folk](https://revistamexicanadesociologia.unam.mx/index.php/rms/article/download/59232/52355), Robert Redfield (1947) sobre la construcción de un tipo ideal de sociedad tradicional ('folk'). El mismo autor toca de nuevo el tema de la tipificación de lo tradicional y las distintas visiones del mundo en el espectro entre folk y urbano. Oscar Lewis (1951) cuestiona la metodología del estudio de Redfield sobre  Tepoztlán, la aldea mexicana en la que se basa su 'tipo ideal'. Usando una metodología distinta, Lewis llega a conclusiones diferentes sobre la vida en Tepoztlán. Gideon Sjoberg (1960) también discute la definición de 'folk' que propone Redfield. La bibliografía sobre relaciones primarias y secundarias es aún más amplia, pero no preciso indicar lo que el lector conoce mejor.
 
@@ -186,7 +221,7 @@ Whiteford, Andrew Hunter.
 
 [^4]: Ver por ejemplo 'El atraso rural: Un caso de discriminación estructural', de Secundino Sepúlveda (1970), donde recomienda que el desarrollo de las áreas rurales alcance el nivel de 'progreso' que puede tener la población urbana. Equipara desarrollo rural con modernización, y cambio social con desarrollo económico.
 
-[^\*\*]: Nota de la traductora: Estas palabras están en alemán en el original. Son términos introducidos por el sociólogo alemán Ferdinand Tonnies que se pueden traducir como 'comunidad' y 'sociedad'. 
+[^nt2]: Nota de la traductora: Estas palabras están en alemán en el original. Son términos introducidos por el sociólogo alemán Ferdinand Tonnies que se pueden traducir como 'comunidad' y 'sociedad'. 
 
 [^5]: La Violencia es un término general que se ha usado para referirse a el bandidaje, secuestros y homicidios, particularmente en áreas rurales de Colombia entre las décadas de 1940 y 1960. Definirlo o establecer sus causas es casi imposible. En general se considera una guerra civil no declarada, donde odios partidistas avivados por incidentes políticos encuentran su expresión más sanguinaria (Guzmán 1968, II)
 
