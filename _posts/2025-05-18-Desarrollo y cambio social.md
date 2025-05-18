@@ -104,7 +104,7 @@ Pero este tipo de análisis, como se ha visto, no puede detenerse ahí, porque n
 
 Del análisis de distintos estudios sobre la sociedad colombiana puede deducirse que para un entendimiento real del proceso de cambio en términos de causa y efecto necesitamos nuevos datos, que no están disponibles a la fecha, y que deben ser recolectados con una hipótesis distinta, o al menos sin asumir una dirección específica para el proceso de cambio.
 
-![Nota del profesor](/img/verygood.jpg)
+![Nota del profesor](/img/verygood.JPG)
 
 ## Bibliografía
 Adams, Dale W. 	
