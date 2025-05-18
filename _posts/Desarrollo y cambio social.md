@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El goce con la naturaleza"
+title:  "Desarrollo y cambio social"
 ---
 #### En busca de un modelo que explique el proceso de cambio en naciones en vías de desarrollo, en particular Colombia.
 Trabajo final del curso sobre Asuntos Urbanos, Dr Warner Bloomberg, Universidad de Wisconsin-Milwaukee, 1970-1971. [^\*]
